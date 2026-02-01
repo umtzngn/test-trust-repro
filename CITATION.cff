@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or dataset, please cite our paper."
+title: "The Test Trust Signal: Reproducibility Package"
+authors:
+  - family-names: Zengin
+    given-names: Umut
+  - family-names: Gu
+    given-names: Aron
+repository-code: "https://github.com/umutzengin/test-trust-repro"
+keywords:
+  - mining software repositories
+  - pull requests
+  - software testing
+  - ai-generated code
+  - empirical software engineering
+license: MIT
