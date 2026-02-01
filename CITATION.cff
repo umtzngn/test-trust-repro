@@ -6,6 +6,10 @@ authors:
     given-names: Umut
   - family-names: Gu
     given-names: Aron
+  - family-names: Hindle
+    given-names: Abram
+  - family-names: Bezemer
+    given-names: Cor-Paul
 repository-code: "https://github.com/umutzengin/test-trust-repro"
 keywords:
   - mining software repositories

@@ -1,0 +1,18 @@
+\begin{table}[h]
+  \centering
+  \caption{RQ3: Logistic regression for merge probability (reduced model).}
+  \label{tab:rq3-logit}
+  \footnotesize
+  \setlength{\tabcolsep}{6pt}
+  \begin{tabular}{lr}
+    \toprule
+    Predictor & Odds ratio [95\% CI] \\
+    \midrule
+    \texttt{has\_test\_file} & 1.24 [1.02, 1.50]* \\
+    \texttt{log\_lifetime} & 0.39 [0.31, 0.49]*** \\
+    \texttt{is\_ai} & 0.31 [0.23, 0.42]*** \\
+    \midrule
+    \multicolumn{2}{l}{\emph{Notes:} Odds ratios reported. $^{*}p<0.05$, $^{**}p<0.01$, $^{***}p<0.001$.}
+    \\
+  \end{tabular}
+\end{table}

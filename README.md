@@ -28,6 +28,7 @@ The purpose of this repository is to enable full reproducibility of all empirica
 │   ├── rq3_odds_ratios.csv
 │   └── rq3_logit_table.tex
 │
+├── CITATION.cff
 ├── requirements.txt
 └── README.md
 ```
